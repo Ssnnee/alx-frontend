@@ -19,6 +19,10 @@ body, a {
   font-family: var(--font-family-base);
 }
 
+section h1, section h2, section h3, section h4, section h5, section h6 {
+  font-family: var(--font-family-title);
+}
+
 .visually-hidden {
   display: none;
 }
@@ -27,6 +31,3 @@ body, a {
   color: var(--color-primary);
 }
 
-section h1, section h2, section h3, section h4, section h5, section h6 {
-  font-family: var(--font-family-title);
-}
