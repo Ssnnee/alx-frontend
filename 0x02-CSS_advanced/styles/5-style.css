@@ -21,10 +21,13 @@ html {
   font-size: 62.5%;
 }
 
+body {
+  font-size: var(--font-size-medium);
+}
+
 body, a {
   color: var(--text-color);
   font-family: var(--font-family-base);
-  font-size: var(--font-size-medium);
 }
 
 section h1, section h2, section h3, section h4, section h5, section h6 {
