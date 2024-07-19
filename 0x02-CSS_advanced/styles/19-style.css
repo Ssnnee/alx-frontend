@@ -172,7 +172,7 @@ a:active {
   color: var(--nav-item-link-hover);
 }
 
-.row  {
+ul[class="row"]  {
   list-style-type: none;
   margin: 0;
   padding: 0;
