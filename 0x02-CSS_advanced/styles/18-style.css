@@ -159,8 +159,8 @@ a:active {
 
 .nav .nav-link {
   display: block;
-  padding-left: 50%;
-  padding-right: 50%;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 .nav .nav-link:hover {
